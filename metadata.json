@@ -1,0 +1,6 @@
+{
+  "name": "智学宝 AI学习伴侣",
+  "description": "集AI智能中英文听写、米字格手写练习、艾宾浩斯记忆复习曲线、作业清单规划、学习闹钟提醒与Gemini启发式AI答疑辅导于一体的学生高效学习伴侣。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
